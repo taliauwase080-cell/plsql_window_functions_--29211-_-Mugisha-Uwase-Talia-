@@ -98,4 +98,4 @@ The company should focus marketing efforts on high-value customer segments and o
 ## Repository Structure
 ### innerjoin
 
-![ER Diagram](/screenshot/innerjoin)
+![ER Diagram](/img/innerjoin)
